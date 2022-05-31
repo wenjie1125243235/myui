@@ -11,7 +11,7 @@ import Switch from './switch/switch.vue'
 import CheckboxGroup from './checkbox-group/checkbox-group.vue'
 import Form from './form/form.vue'
 import FormItem from './form-item/form-item.vue'
-import './fonts/iconfont.css'
+import './fonts/font.scss'
 
 const components = [
   Button,
